@@ -5,14 +5,9 @@
   <img align="center" alt="android" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   <img align="center" alt="apple" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
   <p>
-    <br>
-      SOCIAL MIDIA:     
-    <a style="color:cyan;">LINKEDIN</a>-
-    <a style="color:pink;">INSTAGRAM</a>-
-    <a style="color:red;">YOUTUBE</a>-
-    <a style="color:blue;">FACEBOOK</a>
-  </p>
   <h6>
     <a href="https://swift.org"><i>"There’s a way to do it better — find it." Thomas Edison</i></a>
+      <img align="center" alt="linkedin" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
+
   </h6>
 </div>
