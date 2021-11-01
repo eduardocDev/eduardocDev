@@ -3,5 +3,5 @@
   <img align="center" alt="java" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="android" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   <img align="center" alt="apple" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
-  <h1><a href="https://swift.org"><i>"There’s a way to do it better — find it." Thomas Edison</i><a></h1>
+  <h6><a href="https://swift.org"><i>"There’s a way to do it better — find it." Thomas Edison</i><a></h6>
 </div>
