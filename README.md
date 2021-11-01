@@ -9,12 +9,19 @@
     <a href="https://swift.org"><i>"There’s a way to do it better — find it." Thomas Edison</i></a>
   </h6>
 </div>
+<hr>
 <div>
-<p>Contact</p>
-  <a href="https://www.linkedin.com/in/eduardo-c-07a7b7140/">
-    <img align="center" alt="linkedin" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
-  </a>
-  <a href="https://www.facebook.com/EduardoMestreSamurai/">
-    <img align="center" alt="facebook" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg">
-  </a>
+<p>Contact:</p>
+  <div>
+    <a href="https://www.linkedin.com/in/eduardo-c-07a7b7140/">
+      <img align="center" alt="linkedin" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
+    </a>
+    <a href="https://www.facebook.com/EduardoMestreSamurai/">
+      <img align="center" alt="facebook" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg">
+    </a>
+  </div>
+  <br>
+  <p>Or</p>
+  <p>EMAIL: eduardoc.dev@gmail.com <br> TEL: +55 (71) 999439772</p>
 <div>
+  <hr>
