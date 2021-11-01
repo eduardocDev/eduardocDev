@@ -7,7 +7,7 @@
   <p>
     <br>
       SOCIAL MIDIA:     
-    <a>LINKEDIN</a>-
+    <a color=blue">LINKEDIN</a>-
     <a>INSTAGRAM</a>-
     <a>YOUTUBE</a>-
     <a>FACEBOOK</a>
