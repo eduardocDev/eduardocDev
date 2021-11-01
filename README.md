@@ -7,10 +7,10 @@
   <p>
     <br>
       SOCIAL MIDIA:     
-    <a color=blue">LINKEDIN</a>-
-    <a>INSTAGRAM</a>-
-    <a>YOUTUBE</a>-
-    <a>FACEBOOK</a>
+    <a style="color:cyan;">LINKEDIN</a>-
+    <a style="color:pink;">INSTAGRAM</a>-
+    <a style="color:red;">YOUTUBE</a>-
+    <a style="color:blue;">FACEBOOK</a>
   </p>
   <h6>
     <a href="https://swift.org"><i>"There’s a way to do it better — find it." Thomas Edison</i></a>
