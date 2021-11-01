@@ -6,7 +6,7 @@
   <img align="center" alt="apple" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
   <p>
     <br>
-      SOCIAL MIDIA:
+      SOCIAL MIDIA:     
     <a>LINKEDIN</a>-
     <a>INSTAGRAM</a>-
     <a>YOUTUBE</a>-
