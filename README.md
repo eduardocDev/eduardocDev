@@ -7,7 +7,19 @@
   <p>
   <h6>
     <a href="https://swift.org"><i>"There’s a way to do it better — find it." Thomas Edison</i></a>
-      <img align="center" alt="linkedin" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
-
   </h6>
 </div>
+<div>
+  <a href="https://www.linkedin.com/in/eduardo-c-07a7b7140/">
+    <img align="center" alt="linkedin" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
+  </a>
+  <a href="https://www.youtube.com/channel/UC-YbqsCjc3MukExE-dutFOQ">
+    <img align="center" alt="youtube" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/youtube/youtube-original.svg">
+  </a>
+  <a href="https://www.instagram.com/eduardo_ads_carmo/">
+    <img align="center" alt="instagram" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intagram/instagram-original.svg">
+  </a>
+  <a href="https://www.facebook.com/EduardoMestreSamurai/">
+    <img align="center" alt="facebook" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg">
+  </a>
+<div>
