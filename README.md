@@ -7,9 +7,9 @@
   <p>
     <br>
       SOCIAL MIDIA:
-    <a>LINKEDIN</a>
-    <a>INSTAGRAM</a>
-    <a>YOUTUBE</a>
+    <a>LINKEDIN</a>-
+    <a>INSTAGRAM</a>-
+    <a>YOUTUBE</a>-
     <a>FACEBOOK</a>
   </p>
   <h6>
