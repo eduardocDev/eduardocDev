@@ -1,5 +1,5 @@
 <div>
-  <h2><a href="https://oracle.com">Hi, my name is Eduardo, i'm a tech guy, I love tech, games and music, and the possibility to do anything with a portable device.</a></h1>
+  <h2><a href="https://tyrtech.blogspot.com/">Hi, my name is Eduardo, i'm a tech guy, I love tech, games and music, and the possibility to do anything with a portable device.</a></h1>
   <img align="center" alt="swift" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
   <img align="center" alt="flutter" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="html" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
