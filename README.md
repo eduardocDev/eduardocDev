@@ -1,11 +1,14 @@
 <div>
   <h2><a href="https://tyrtech.blogspot.com/" target="_blank">Hi, my name is Eduardo, i'm a tech guy, I love tech, games and music, and the possibility to do anything with a web and portables devices.</a></h1>
+  <img align="center" alt="html" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg">
+  <img align="center" alt="Css" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original.svg">
   <img align="center" alt="javascript" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="react" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="mysql" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="linux" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="ginp" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg">
+  <img align="center" alt="inkscape" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg">
   <p>
   <h6>
-    <a href="https://swift.org"><i>"There’s a way to do it better — find it." Thomas Edison</i></a>
+    <a href="educarmo.online><i>"There’s a way to do it better — find it." Thomas Edison</i></a>
   </h6>
 </div>
 <hr>
