@@ -4,6 +4,7 @@
   <img align="center" alt="css" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="javascript" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="react" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="bootstrap" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <p>
   <h6>
     <a href="educarmo.online><i>"There’s a way to do it better — find it." Thomas Edison</i></a>
