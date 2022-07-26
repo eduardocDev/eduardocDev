@@ -2,6 +2,7 @@
   <h2><a href="https://tyrtech.blogspot.com/" target="_blank">Hi, my name is Eduardo, i'm a tech guy, I love tech, games and music, and the possibility to do anything with a web and portables devices.</a></h1>
   <img align="center" alt="html" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="bootstrap" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="javascript" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="php" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="mysql" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
