@@ -1,4 +1,4 @@
 **Masterizando:** 
 
-![PHP logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png)
+![PHP logo](https://w1.pngwing.com/pngs/762/217/png-transparent-mysql-logo-lamp-apache-http-server-computer-servers-linux-installation-php-web-server.png)
 
