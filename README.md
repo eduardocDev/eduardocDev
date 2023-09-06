@@ -1,4 +1,5 @@
 **Masterizando:** 
 
-![GitHub Logo](https://icons8.com/icon/fAMVO_fuoOuC/php-logo.png)
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/php.png)
+
 
