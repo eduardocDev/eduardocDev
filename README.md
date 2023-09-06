@@ -1,3 +1,3 @@
 **Masterizando:** 
 
-<img src="https://icons8.com/icon/fAMVO_fuoOuC/php-logo"></img>
+<img src="https://example.com/path-to-your-image.jpg" alt="Description of the image">
