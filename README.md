@@ -1,3 +1,4 @@
 **Masterizando:** 
 
-<img src="https://example.com/path-to-your-image.jpg" alt="Description of the image">
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
+
